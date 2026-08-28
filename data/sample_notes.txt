@@ -1,0 +1,6 @@
+Project notes (internal)
+
+The internal code name for this research agent is Harbor.
+It is a multi-source RAG assistant: local documents, CSV/Excel/SQLite tables, and web search.
+When a fact is only in these notes, cite this file.
+Tank water levels live in tank_levels.csv, not in this note.

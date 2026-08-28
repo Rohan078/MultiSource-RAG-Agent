@@ -1,0 +1,14 @@
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+store/
+.idea/
+.vscode/
+*.egg-info/
+.DS_Store
+Thumbs.db

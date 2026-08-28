@@ -1,0 +1,7 @@
+date,district,tank_name,water_level_m,status
+2026-06-23,Warangal,Pedda Cheruvu,4.2,filling
+2026-06-23,Karimnagar,Ramappa,3.1,low
+2026-06-30,Warangal,Pedda Cheruvu,5.8,normal
+2026-06-30,Karimnagar,Ramappa,4.0,filling
+2026-07-07,Warangal,Pedda Cheruvu,6.4,full
+2026-07-07,Karimnagar,Ramappa,5.2,normal
